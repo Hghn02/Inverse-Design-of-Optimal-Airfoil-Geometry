@@ -25,5 +25,41 @@ A machine learning model to predict the final geometry of an airfoil given input
 
 ![Slide 6](slides/Slide6.jpg)
 
+---
+
+![Slide 7](slides/Slide7.jpg)
+
+---
+
+![Slide 8](slides/Slide8.jpg)
+
+---
+
+![Slide 9](slides/Slide9.jpg)
+
+---
+
+![Slide 10](slides/Slide10.jpg)
+
+---
+
+![Slide 11](slides/Slide11.jpg)
+
+---
+
+![Slide 12](slides/Slide12.jpg)
+
+---
+
+![Slide 13](slides/Slide13.jpg)
+
+---
+
+![Slide 14](slides/Slide14.jpg)
+
+---
+
+![Slide 15](slides/Slide15.jpg)
+
 
 
